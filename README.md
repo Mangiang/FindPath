@@ -8,3 +8,5 @@ A little script for Unity 5 that allows to copy the hierarchy path of a GameObje
 - Select "FindPath"
 - The path of the object (begining at the scene root) is now in your clipboard.
 - Paste it anywhere you need.
+
+Note : this script must be in the Assets/Editor folder.
